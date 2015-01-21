@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>forward.png</file>
+        <file>folder.png</file>
+        <file>save.png</file>
+        <file>camera.png</file>
+        <file>design.png</file>
+        <file>rotate.png</file>
+        <file>shadow.png</file>
+        <file>shadow1.png</file>
+    </qresource>
+</RCC>
